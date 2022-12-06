@@ -1,3 +1,3 @@
 # MyFAQ
 A little FAQ in JS 
-<img src="myfaq.png>
+<img src="MyFAQ.png>
